@@ -1,0 +1,189 @@
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0%;
+        }
+        
+        .top-section {
+            display: flex;
+        }
+        
+        .box-header {
+            text-align: left;
+            padding: 10px;
+        }
+        
+        .half-section {
+            width: 50%;
+            margin-left: 80px;
+            margin-right: 80px;
+            padding: 50px;
+            text-align: justify;
+        }
+        
+        .person-image {
+            height: 400px;
+            width: 350px;
+            margin-right: 100px;
+        }
+        
+        .header-area {
+            font-size: 30px;
+            border-left: 5px solid crimson;
+            padding-left: 20px;
+            border-radius: 4px;
+        }
+        
+        .mission-color {
+            color: tomato;
+        }
+        
+        .link-button {
+            text-decoration: none;
+            background-color: crimson;
+            color: white;
+            padding: 10px 40px;
+            border-radius: 10px;
+        }
+        
+        .mission-heading {
+            text-align: center;
+            font-weight: bold;
+            color: rgb(33, 2, 63);
+            /* margin-top: 100px; */
+            font-size: 40px;
+        }
+        
+        .boxmodel {
+            display: flex;
+            margin: 5%;
+        }
+        
+        .box-img {
+            height: 200px;
+            width: 180px;
+        }
+        
+        .mission-box {
+            width: 30%;
+            margin-left: 2%;
+            box-shadow: 5px;
+            text-align: center;
+            padding: 5px;
+            border-radius: 10px;
+        }
+        
+        .to-justify {
+            text-align: justify;
+            padding: 10px;
+        }
+        
+        .color-mission {
+            background-color: rgba(232, 99, 81, .2);
+        }
+        
+        .color-vission {
+            background-color: rgba(12, 237, 211, .2);
+        }
+        
+        .color-goal {
+            background-color: rgba(68, 13, 219, .2);
+        }
+        
+        .divi-sector {
+            margin-top: 100px;
+            display: flex;
+        }
+        
+        .half-sector {
+            width: 50%;
+            text-align: justify;
+            padding: 10px;
+        }
+        
+        .bg-img {
+            background-image: url(images/shapes/shape-1.png);
+            background-repeat: no-repeat;
+            background-size: 200px 200px;
+            background-position-y: center;
+            background-position-x: 15%;
+        }
+        
+        .coding-image {
+            height: 320px;
+            width: 350px;
+            margin-left: 25%;
+        }
+        
+        .project-image {
+            height: 320px;
+            width: 350px;
+            margin-right: 25%;
+        }
+        
+        .bgp-img {
+            background-image: url(images/shapes/shape-1.png);
+            background-repeat: no-repeat;
+            background-size: 150px 150px;
+            background-position-y: 100%;
+            background-position-x: 90%;
+        }
+        
+        .close-image {
+            margin-right: 25%;
+            padding-right: 20px;
+        }
+        
+        .footer-bar {
+            margin-top: 100px;
+            width: 100%;
+            height: 100px;
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+        
+        #footer-heading {
+            font-family: 'Moon Dance', cursive;
+            font-family: 'Poppins', sans-serif;
+            font-family: 'Roboto Slab', serif;
+            padding-top: 20px;
+        }
+        
+        #footer-para {
+            font-size: 12px;
+        }
+        
+        .Bonus-section {
+            margin-top: 100px;
+        }
+        
+        .heading {
+            font-weight: bolder;
+        }
+        
+        hr {
+            width: 50%;
+            color: cyan;
+            /* align-self: center; */
+        }
+        
+        .client-testimonials {
+            /* align-self: center; */
+            text-align: center;
+            margin-bottom: 50px;
+            margin-top: 20px;
+        }
+        
+        .client-review {
+            font-family: cursive;
+            font-size: 20px;
+        }
+        
+        #color {
+            color: rgb(8, 30, 228);
+            font-weight: bolder;
+        }
+        
+        #year-color {
+            color: tomato;
+        }
